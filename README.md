@@ -13,7 +13,7 @@
 📚 **Selected work**
 - 🏗️ [**Architectural Portfolio**](https://drive.google.com/file/d/1OPRYQjyB40xrnJ9AxIQSxLREpCnXuzvP/view?usp=drive_link) — selected projects from practice and academia
 - 🏠 [**M.Sc. Thesis**](https://drive.google.com/file/d/1hBvmlMFKI6J2kbs976cRZMgJqXHrhpR6/view?usp=drive_link) — *Design principles for dementia-assisted housing: Swedish practice and its translation to Taiwan* (defending May 2026)
-- 🌍 [**Housing LCA Project**](https://drive.google.com/file/d/1KB9fX7Z7vG2Cpp-bGfDH9MPLxxWUhDMr/view?usp=drive_link) — GWP life cycle assessment & optimization of housing (Pass with Distinction)
+- 🌍 [**Housing LCA Project**](https://drive.google.com/file/d/1KB9fX7Z7vG2Cpp-bGfDH9MPLxxWUhDMr/view?usp=drive_link) — GWP life cycle assessment & performance optimization (Pass with Distinction)
 
 🌱 **Interests**
 - Sustainable architecture · Life cycle assessment · Data analysis for the built environment
