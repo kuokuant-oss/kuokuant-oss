@@ -16,7 +16,7 @@
 - 🌍 [**Housing LCA Project**](https://drive.google.com/file/d/1KB9fX7Z7vG2Cpp-bGfDH9MPLxxWUhDMr/view?usp=drive_link) — GWP life cycle assessment & optimization of a multi-family housing (Pass with Distinction)
 
 🌱 **Interests**
-Sustainable architecture · Life cycle assessment · Data analysis for the built environment
+- Sustainable architecture · Life cycle assessment · Data analysis for the built environment
 
 🛠️ **Skills**
 - **Programming:** Python (pandas, NumPy, matplotlib, scikit-learn, PyTorch)
