@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kuan-Ting Kuo
 
-🏛️ Architect with a focus on **sustainable and humanistic design**, currently pursuing M.Sc. studies in Sweden and exploring data-driven methods in the built environment.
+🏛️ Architectural Designer with a focus on **sustainable and humanistic design**, currently pursuing M.Sc. studies in Sweden and exploring data-driven methods in the built environment.
 
 🎓 **Education**
 - M.Sc. Architecture and Urban Design, **Chalmers University of Technology** (2024–2026)
