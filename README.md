@@ -7,8 +7,8 @@
 - B.Arch., **Tunghai University** (2016–2021)
 
 💼 **Past experience**
-- Project Designer at 聯合打開建築師事務所, Tainan (2021/08–2022/10)
-- Internships at 張景堯聯合建築師事務所, 建築公社
+- Project Designer at United Open Architects, Tainan (2021/08–2022/10)
+- Internships at JYCA+DCDA, Archite:COOP
 
 📚 **Selected work**
 - 🏗️ [**Architectural Portfolio**](https://drive.google.com/file/d/1OPRYQjyB40xrnJ9AxIQSxLREpCnXuzvP/view?usp=drive_link) — selected projects from practice and academia
